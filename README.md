@@ -43,7 +43,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/tutorialflix)
+➡️ [more videos...](hhttps://www.youtube.com/channel/UCDSJh3rB7sETtQfUgWr32mQ)
 
 ---
 
