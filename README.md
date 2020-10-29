@@ -41,6 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create maven project using eclipse in 2 minutes | TutorialFlix](https://www.youtube.com/watch?v=ki3-IUpB3dk)
+- [How to Deploy Bundle(s) on Jboss Fuse Fabric? | TutorialFlix.com](https://www.youtube.com/watch?v=KuO1aOx8u3A)
+- [How to create Fabric in Jboss Fuse ? | TutorialFlix.com](https://www.youtube.com/watch?v=5UzrZcXgocs)
+- [Deploy and test secure soap web services in soap-ui | TutorialFlix.com](https://www.youtube.com/watch?v=sJ_cznaQvnM)
+- [How to implement Security in SOAP Webservices ? | TutorialFlix.com](https://www.youtube.com/watch?v=tRQcKUqO31c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](hhttps://www.youtube.com/channel/UCDSJh3rB7sETtQfUgWr32mQ)
