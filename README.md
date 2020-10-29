@@ -55,13 +55,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="tutorialflix's GitHub Stats" src="https://github-readme-stats.tutorialflix.vercel.app/api?username=tutorialflix&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://tutorialflix.com
 [youtube]: https://www.youtube.com/channel/UCDSJh3rB7sETtQfUgWr32mQ
 [linkedin]: https://linkedin.com/in/vaibhavbhootna
