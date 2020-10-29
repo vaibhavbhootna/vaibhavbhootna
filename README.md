@@ -63,5 +63,5 @@
 </details>
 
 [website]: https://tutorialflix.com
-[youtube]: https://youtube.com/tutorialflix
+[youtube]: https://www.youtube.com/channel/UCDSJh3rB7sETtQfUgWr32mQ
 [linkedin]: https://linkedin.com/in/vaibhavbhootna
