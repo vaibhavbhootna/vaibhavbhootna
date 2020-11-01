@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Spring Boot Application inside Docker container](http://www.tutorialflix.com/Run-Spring-Boot-Application-inside-Docker-container/)
 - [Migrate Spring Boot Service from JDK 1.8 to JDK 11 or higher](http://www.tutorialflix.com/Migrate-Spring-Boot-Service-from-JDK-1-8-to-JDK-11-or-higher/)
 - [How to install JDK 11 on mac using Homebrew](http://www.tutorialflix.com/How-to-install-JDK-11-on-mac-using-Homebrew/)
 - [How to remove files from Git commit](http://www.tutorialflix.com/How-to-remove-files-from-Git-commit/)
 - [How to configure passwordless ssh and scp](http://www.tutorialflix.com/How-to-configure-passwordless-ssh-and-scp/)
-- [How to implement security in SOAP webservice using Spring-WS](http://www.tutorialflix.com/How-to-implement-security-in-SOAP-webservice-using-Spring-WS/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://tutorialflix.com)
