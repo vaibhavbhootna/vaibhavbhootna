@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn ReactJS, Learn video editing
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to click pictures, do vlogging.
+- ⚡ Fun fact: I love to click pictures and make videos
 
 
 ### Connect with me:
