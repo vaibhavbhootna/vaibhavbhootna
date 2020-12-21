@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to edit pictures and make videos
 
-[Google.com](http://www.google.com)
 
 ### Connect with me:
 
