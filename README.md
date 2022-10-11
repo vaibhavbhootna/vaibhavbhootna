@@ -2,14 +2,10 @@
 
 [![Website](https://img.shields.io/badge/tutorialflix-up-brightgreen)](https://tutorialflix.com)
 
-## I'm a Husband, Developer, and Learner!!
+## Backend Developer and Learner!!
 
 - :india: I'm an Indian, staying in Singapore :singapore:
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn ReactJS, Learn video editing
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to edit pictures and make videos
-
 
 ### Connect with me:
 
@@ -67,5 +63,5 @@
 ---
 
 [website]: https://tutorialflix.com
-[youtube]: https://www.youtube.com/channel/UCDSJh3rB7sETtQfUgWr32mQ
+[leetcode]: https://www.leetcode.com/vaibhavbhootna
 [linkedin]: https://linkedin.com/in/vaibhavbhootna
